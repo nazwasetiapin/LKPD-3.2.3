@@ -32,7 +32,7 @@ h3{
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgba(7, 7, 7, 0.6);;
 }
 
 /* Style the navigation bar links */
@@ -66,11 +66,6 @@ h3{
   flex: 30%;
   background-color: #f1f1f1;
   padding: 20px;
-}
-
-/* span name */
-.name{
-  color: #503737;
 }
 
 .image1{
@@ -117,7 +112,7 @@ h3{
   background: #aaa;
   height: 30px;
   border-radius: 20px;
-  display: flex;
+  display: grid;
   justify-content: flex-end;
   align-items: center;
   padding-right: 30px;
