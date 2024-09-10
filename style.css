@@ -23,7 +23,7 @@ h3{
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url(c:/Users/nazwa/Downloads/window.jpg);
+  background-image: url(window.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -32,7 +32,7 @@ h3{
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: rgba(7, 7, 7, 0.6);;
+  background-color: rgba(7, 7, 7, 0.6);
 }
 
 /* Style the navigation bar links */
@@ -69,19 +69,19 @@ h3{
 }
 
 .image1{
-  background-image: url(c:/Users/nazwa/Downloads/img1.jpeg);
+  background-image: url(img1.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .image2{
-  background-image: url(c:/Users/nazwa/Downloads/btr.jpg);
+  background-image: url(btr.jpg);
   background-repeat: no-repeat;
  background-size: cover;
 }
 
 .image3{
-  background-image: url(c:/Users/nazwa/Downloads/star.jpg);
+  background-image: url(star.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -214,7 +214,7 @@ h3{
   font-size: 20px;
   line-height: 45px;
   transition: .6s;
-  color: #000;
+  color: rgba(7, 7, 7, 0.863);
   position: relative;
   display: block;
   width: 45px;
